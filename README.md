@@ -12,7 +12,6 @@ This project aims to predict campus placement outcomes using machine learning te
 4. [Model Details](#model-details)
 5. [Evaluation Metrics](#evaluation-metrics)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Installation
 
@@ -69,11 +68,3 @@ If you want to contribute to this project, please follow these steps:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a comprehensive overview of your project, including installation instructions, usage, features, model details, evaluation metrics, contributing guidelines, and licensing information. If you need any further adjustments or additions, just let me know!
